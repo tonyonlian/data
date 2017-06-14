@@ -1,13 +1,13 @@
 {
-  "name": "lightway",
+  "name": "light-api",
   "version": "1.0.0",
-  "description": "lightway",
+  "description": "light-api",
   "main": "./lib",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "light",
+  "author": "LIGHT",
   "license": "ISC",
   "dependencies": {
     "async": "^2.4.0",
